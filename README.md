@@ -1,0 +1,1 @@
+# my-node.js-package-named-js--installer
